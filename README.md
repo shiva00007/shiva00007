@@ -7,7 +7,6 @@ FrontEnd Developer
 I Love Code!!
 
 * ✉️  You can contact me at [shivas91919@gmail.com](mailto:shivas91919@gmail.com)
-* 🧠  I'm Currently learning Reactjs and Nodejs
 * 🤝  I'm open to collaborating on other frontend Projects
 
 ### Skills
